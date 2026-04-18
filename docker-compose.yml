@@ -1,6 +1,6 @@
 services:
   app:
-    image: mohdshuaib42/institute-management-system:latest
+    image: mohdshuaib42/institute-management-updated:v1
     container_name: ims-app
     restart: unless-stopped
     environment:
